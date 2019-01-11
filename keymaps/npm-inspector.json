@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "npm-inspector:runPlugin"
+    "ctrl-alt-o": "npm-inspector:openUrl",
+    "ctrl-alt-p": "npm-inspector:showUrl"
   }
 }
