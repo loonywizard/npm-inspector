@@ -1,7 +1,7 @@
 {
   "name": "npm-inspector",
   "main": "./lib/npm-inspector",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "ITMO, Software Development Tools, lab 5. Atom plugin",
   "keywords": [],
   "activationCommands": {
