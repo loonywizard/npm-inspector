@@ -1,11 +1,14 @@
 {
   "name": "npm-inspector",
   "main": "./lib/npm-inspector",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "ITMO, Software Development Tools, lab 5. Atom plugin",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["npm-inspector:openUrl", "npm-inspector:showUrl"]
+    "atom-workspace": [
+      "npm-inspector:openUrl",
+      "npm-inspector:showUrl"
+    ]
   },
   "repository": "https://github.com/loonywizard/npm-inspector",
   "license": "MIT",
