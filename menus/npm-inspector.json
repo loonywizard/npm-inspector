@@ -1,0 +1,14 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open url of npm package",
+        "command": "npm-inspector:openUrl"
+      },
+      {
+        "label": "Copy url of npm package",
+        "command": "npm-inspector:copyUrlToClipboard"
+      }
+    ]
+  }
+}
