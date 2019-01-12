@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
     "ctrl-alt-o": "npm-inspector:openUrl",
-    "ctrl-alt-p": "npm-inspector:showUrl"
+    "ctrl-alt-p": "npm-inspector:copyUrlToClipboard"
   }
 }

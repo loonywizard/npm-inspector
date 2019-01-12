@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": [
       "npm-inspector:openUrl",
-      "npm-inspector:showUrl"
+      "npm-inspector:copyUrlToClipboard"
     ]
   },
   "repository": "https://github.com/loonywizard/npm-inspector",
