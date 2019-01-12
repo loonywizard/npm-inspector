@@ -10,5 +10,25 @@
         "command": "npm-inspector:copyUrlToClipboard"
       }
     ]
-  }
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "npm-inspector",
+          "submenu": [
+            {
+              "label": "Open url of npm package",
+              "command": "npm-inspector:openUrl"
+            },
+            {
+              "label": "Copy url of npm package",
+              "command": "npm-inspector:copyUrlToClipboard"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
